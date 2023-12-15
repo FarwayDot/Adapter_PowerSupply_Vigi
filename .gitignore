@@ -24,6 +24,7 @@ bom/*
 *.kicad_pcb-bak
 *.kicad_sch-bak
 _autosave-*
+*auto_saved_files#
 
 # Archivo que contiene configuración de Kicad en la computadora
 *.kicad_prl
